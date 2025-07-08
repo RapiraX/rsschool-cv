@@ -70,4 +70,10 @@ prevButton.addEventListener('click', () => {
 ## 6. Опыт работы:
 Верстка [макетов](https://github.com/RapiraX) разной сложности, множество [пет-проектов](https://github.com/RapiraX). Коммерческого опыта нет.
 
+## 7. Образовине:
+Проходил курсы по верстке html academy, также самостоятельно изучал javasript.
+
+## 8.Уровень английского:
+Intermediate, разговорный B1
+
 
